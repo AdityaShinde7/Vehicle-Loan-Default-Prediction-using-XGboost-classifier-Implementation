@@ -1,0 +1,2 @@
+# Vehicle-Loan-Default-Prediction-using-XGboost-classifier-Implementation
+ Developed a machine learning model to predict whether the loanee would be able to repay the loan. I created this model with the aid of the loanees' previous information. I cleaned the data first, and then I used the PowerBI tool to perform exploratory data analysis. Following that, using Python programming, I created a prediction algorithm to predict loan default.
